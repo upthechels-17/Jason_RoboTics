@@ -19,7 +19,7 @@ rhyme = input("Give me a verb that rhymes with your person's name: if ur name is
 
 friend = input("Name a friend: ur day 1 bestie ")
 
-badGuy = input("Name a bad guy: like diddy or something")
+badGuy = input("Name a bad guy: like bowseror something")
 
 print(f"""
 Yo, {person}
@@ -31,9 +31,7 @@ Stack that paper, chase that dream
 With my day 1 {friend} on the team
 Getting that bag, yeah you know what I mean
 This that heat, straight fire, supreme 
-None of these bums can see it
-All of our opps now can admit 
-that we're the ones who started all this, yeah all you bums get dunked into abyss {badGuy} just got trashed, yeah his home got smashed and the opps are mad, and the the opps are bad, but we got this bag, and  now he's really mad, yeah we got this bag, and now he's really mad, yeah we got this bag, but Lil {person} got really mad and then he threw his ps5 controller.
+
 """)
   
   

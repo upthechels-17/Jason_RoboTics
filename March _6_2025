@@ -1,0 +1,11 @@
+print("\033[34m")
+user_input = input("Enter a random City, Country or Fictonal Place: ")
+print(f"Nice! You entered: {user_input}")
+
+user_input2 = input (" Enter a random name:")
+print(f"Awsome! You entered: {user_input2} ")
+
+user_input3 = input (" Enter a random number:")
+print(f"Cool! You entered: {user_input3} ")
+
+print (f"Once upon a time, there was a person named {user_input2} who lived in {user_input}. {user_input2} was {user_input3} years old and loved to go to Mcdonalds!")

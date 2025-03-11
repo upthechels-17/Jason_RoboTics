@@ -1,0 +1,7 @@
+
+MyName = input("What's your name?: ")
+MyAge = input("How old are you?: ")
+if MyAge == "13":
+    print("You're a teenager! Or a YN!")
+if MyName == "Jason":
+    print("You're amazing! Or an amazing soccer player, Up the Chels!!!")
